@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Citas de Laboratorio
+  description: Microservicio con SrpingBoot.
+spec:
+  type: library
+  owner: YennyTabordaRamirez
+  lifecycle: experimental
